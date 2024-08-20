@@ -13,6 +13,6 @@ if (xP < 1000) {
     console.log(nomeHero + " Está no nivel " + " Ascendente");
 } else if (xP > 9000 && xP <= 10000) {
     console.log(nomeHero + " Está no nive l" + " Imortal");
-} else if (xP > 10001) {
+} else if (xP >+ 10001) {
     console.log(nomeHero + " Está no nivel " + " Radiante");
 }
