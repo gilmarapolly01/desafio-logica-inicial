@@ -27,4 +27,3 @@ class AventuraDoHeroi {
 let heroi = new AventuraDoHeroi("Gilmara", 18, "ninja");
 heroi.escrever();
 heroi.atacar();
-
