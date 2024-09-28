@@ -22,7 +22,6 @@ function calcularNivelRankeadas (vitorias, derrotas){
     } else{
         nivel = "Imortal"
     }
-
     return `O O Herói tem saldo de ${saldoVitorias} está no nível de ${nivel}`
 
 }
